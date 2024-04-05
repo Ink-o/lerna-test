@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  console.log('假装个更21');
+  console.log('假21');
   const [count, setCount] = useState(0)
 
   return (

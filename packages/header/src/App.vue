@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
-console.log('假装个更改11');
+console.log('个更改11');
 </script>
 
 <template>
