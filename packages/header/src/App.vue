@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
+console.log('假装个更改1了11113221');
 </script>
 
 <template>

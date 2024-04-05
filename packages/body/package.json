@@ -23,5 +23,6 @@
     "eslint-plugin-react-refresh": "^0.4.6",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
-  }
+  },
+  "gitHead": "feaeb610756eb388d72b89f079722ae835a1509f"
 }
