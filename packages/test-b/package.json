@@ -1,0 +1,28 @@
+{
+  "name": "test-b",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "homepage": "https://github.com/Ink-o/lerna-test#readme",
+  "license": "ISC",
+  "main": "lib/test-b.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npm.taobao.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ink-o/lerna-test.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/test-b.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Ink-o/lerna-test/issues"
+  }
+}

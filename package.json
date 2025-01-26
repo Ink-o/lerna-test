@@ -2,11 +2,13 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "test": "lerna run test"
-  },
-  "dependencies": {
+    "test": "lerna run test",
+    "addPkg": "lerna create",
+    "execTaskA": "lerna run test --scope=test-a",
+    "graph": "nx graph"
   },
   "devDependencies": {
-    "lerna": "^8.1.2"
+    "lerna": "^8.1.2",
+    "nx": "^20.3.3"
   }
 }
